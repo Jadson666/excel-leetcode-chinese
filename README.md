@@ -1,4 +1,4 @@
-語言：Javascript
+語言：Javascript  
 平台：leetcode.com
 # 目的
 題目千遍萬化，理解概念才是本質，本倉庫不以解出題目為第一優先目標，而會把重點在以下：
